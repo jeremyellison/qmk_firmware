@@ -27,7 +27,7 @@
 		 "KC_NO", "KC_NO", "KC_RALT", "KC_NO", "KC_NO", "KC_NO",                                                                           "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", 
 		 "KC_NO", "KC_NO",  "KC_NO",                                                                                                       "KC_MSTP", "KC_MPLY", "KC_MUTE"],
 		/* Layer 4: Numbers and Rectangle */
-  		["KC_NO", "KC_LBRC", "KC_7", "KC_8", "KC_9", "KC_RBRC",                                                                            "LCTL(LALT(LSFT(KC_RIGHT)))", "LCTL(LALT(KC_Z))", "LCTL(LALT(KC_E))", "LCTL(LALT(KC_G))", "LCTL(LALT(A))", "KC_NO",
+  		["KC_NO", "KC_LBRC", "KC_7", "KC_8", "KC_9", "KC_RBRC",                                                                            "LCTL(LALT(LSFT(KC_RIGHT)))", "LCTL(LALT(KC_Z))", "LCTL(LALT(KC_E))", "LCTL(LALT(KC_G))", "LCTL(LALT(KC_A))", "KC_NO",
 		 "KC_NO", "KC_SCLN", "KC_4", "KC_5", "KC_6", "KC_EQL",                                                                             "KC_NO", "KC_LSFT", "KC_LCTL", "KC_LALT", "KC_LGUI", "KC_NO",
 		 "KC_NO", "KC_GRV", "KC_1", "KC_2", "KC_3", "KC_BSLS",                                                                             "LCTL(LALT(LGUI(KC_RIGHT)))", "KC_NO", "KC_NO", "LCTL(LALT(KC_Q))", "LCTL(LALT(KC_W))", "KC_NO", 
 		 "KC_DOT", "KC_0", "KC_MINS",                                                                                                      "KC_NO", "KC_NO", "KC_NO"],
